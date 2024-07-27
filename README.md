@@ -78,3 +78,4 @@ Styles for the back-to-top button.
 Social Handles and Footer Styles:
 
 Styles for social handles, footer, and its sections.
+
